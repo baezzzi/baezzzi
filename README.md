@@ -6,12 +6,15 @@
 ***
 
 <a href="https://velog.io/@mynumber100/series">
-  <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
-</a>
-<a href="https://solved.ac/hannee233">
-  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hannee233" />
+  <img src="https://img.shields.io/badge/mynumberis100.log-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </a>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+
+<a href="https://solved.ac/profile/hannee233">
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hannee233" />
+</a>
 
 ***
 
