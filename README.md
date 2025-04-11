@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/mynumberis100.log-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/instagram-FF0069?style=flat-square&logo=instagram&logoColor=white" /></a>
-<a href="https://blog.naver.com/xzxxeon"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=blog&logoColor=white" /></a>
+<a href="https://blog.naver.com/xzxxeon"><img src="https://img.shields.io/badge/naver blog-03C75A?style=flat-square&logo=blog&logoColor=white" /></a>
 <a href="https://solved.ac/hannee233"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hannee233&theme=dark"/></a>
   
 ***
