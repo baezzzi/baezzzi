@@ -5,7 +5,9 @@
 
 ***
 <p align="center"> BAEK JI YEON </p>
-<img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
+<a href="https://velog.io/@mynumber100/series">
+  <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
+</a>
 ***
 
 
