@@ -9,11 +9,8 @@
   <img src="https://img.shields.io/badge/mynumberis100.log-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </a>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
-
-<a href="https://solved.ac/profile/hannee233">
-  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hannee233" />
+<a href="https://solved.ac/hannee233">
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hannee233&theme=dark"/>
 </a>
 
 ***
