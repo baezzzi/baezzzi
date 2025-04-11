@@ -4,7 +4,7 @@
 <br />
 
 ***
-<p align="center" size="big"> BAEK JI YEON </p>
+<p align="center"> BAEK JI YEON </p>
 
 [![sloved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hannee233)](https://solved.ac/hannee233/)
 
