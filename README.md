@@ -22,8 +22,6 @@
 
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /><img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=Android&logoColor=white" /><img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baezzzi&layout=compact)
-
 <!--
 **baezzzi/baezzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
