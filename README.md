@@ -2,7 +2,6 @@
   <img src="https://github.com/baezzzi/baezzzi/blob/main/%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3.gif">
 </div>
 <br />
-<br />
 
 ***
 <p align="center"> BAEK JI YEON </p>
