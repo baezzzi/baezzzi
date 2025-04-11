@@ -8,13 +8,10 @@
 <a href="https://velog.io/@mynumber100/series">
   <img src="https://img.shields.io/badge/mynumberis100.log-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </a>
-
 <a href="https://solved.ac/hannee233"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hannee233&theme=dark"/></a>
 
 ***
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hannee233)](https://solved.ac/hannee233/)
 [![sloved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hannee233)](https://solved.ac/hannee233/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baezzzi&layout=compact)
 
