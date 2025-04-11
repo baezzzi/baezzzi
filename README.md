@@ -18,7 +18,7 @@
 
 
 ## my skill list
-<img src="https://img.shields.io/badge/java script-#F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baezzzi&layout=compact)
+<img src="https://img.shields.io/badge/java script-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baezzzi&layout=compact)
 
 <!--
 **baezzzi/baezzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
