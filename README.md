@@ -9,9 +9,7 @@
   <img src="https://img.shields.io/badge/mynumberis100.log-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </a>
 
-<a href="https://solved.ac/hannee233">
-  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hannee233&theme=dark"/>
-</a>
+<a href="https://solved.ac/whkakrkr"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whkakrkr&theme=dark"/></a>
 
 ***
 
