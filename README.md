@@ -8,7 +8,10 @@
 <a href="https://velog.io/@mynumber100/series">
   <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </a>
-[![BOJ](http://mazassumnida.wtf/api/mini/generate_badge?boj=hannee233)](https://solved.ac/hannee233/)
+<a href="https://solved.ac/hannee233/">
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hannee233" />
+</a>
+
 
 ***
 
