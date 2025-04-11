@@ -3,15 +3,10 @@
 </div>
 <br />
 <br />
-
-<div align="center">
-
-<P style={{font-size:100}}>BOJ</P>
-  
-</div>
+* * *
+<p align="center"> BAEK JI YEON </p>
 
 [![sloved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hannee233)](https://solved.ac/hannee233/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=hannee233&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baezzzi&layout=compact)
 
