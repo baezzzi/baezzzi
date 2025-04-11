@@ -3,7 +3,8 @@
 </div>
 
 <div align="center">
-### BOJ Stat
+
+<P style={{font-size:100}}>BOJ</P>
   
 </div>
 
