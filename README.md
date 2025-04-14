@@ -23,10 +23,10 @@
 
 <table>
   <tr>
-    <td align="center" style="right:100px">
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baezzzi&layout=compact" />
     </td>
-    <td align="center">
+    <td align="right">
       <img src="https://img.shields.io/badge/java script-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
@@ -36,13 +36,20 @@
       <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
       <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=Android&logoColor=white" />
-      <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+      <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/andriod studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white" />
+      <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=Git&logoColor=white" />
+      <img src="https://img.shields.io/badge/vs code-5D87BF?style=flat-square&logo=V&logoColor=white" />
+      <img src="https://img.shields.io/badge/intelliJ-000000?style=flat-square&logo=intelliJIDEA&logoColor=white" />
+      <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white" />
+      <img src="https://img.shields.io/badge/photoshop-1F305F?style=flat-square&" />
+      <img src="https://img.shields.io/badge/premeire pro-1875F3?style=flat-square" />
     </td>
   </tr>
 </table>
 
 ## my skill list - tools
-<img src="https://img.shields.io/badge/andriod studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white" /><img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=Git&logoColor=white" /><img src="https://img.shields.io/badge/vs code-5D87BF?style=flat-square&logo=V&logoColor=white" /><img src="https://img.shields.io/badge/intelliJ-000000?style=flat-square&logo=intelliJIDEA&logoColor=white" /><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white" /><img src="https://img.shields.io/badge/photoshop-1F305F?style=flat-square&" /><img src="https://img.shields.io/badge/premeire pro-1875F3?style=flat-square" />
+
 
 
 <!--
