@@ -18,7 +18,7 @@
 ***
 
 
-## my skill list - language
+## my skill list 
 
 
 <table algin="center">
