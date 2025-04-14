@@ -20,7 +20,7 @@
 ## my skill list - language
 
 
-<div  align="center">
+<div  align="center" gap=1000>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baezzzi&layout=compact)
   
