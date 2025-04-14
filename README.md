@@ -1,7 +1,5 @@
 
 
-***
-
 <div align="center">
   
   <a href="https://velog.io/@mynumber100/series"><img src="https://img.shields.io/badge/mynumberis100.log-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
@@ -11,7 +9,6 @@
 </div>
 
   
-***
 
 <div align="center">
   <img src="https://github.com/baezzzi/baezzzi/blob/main/%E1%84%80%E1%85%B5%E1%86%BA%E1%84%92%E1%85%A5%E1%84%87%E1%85%B3.gif">
