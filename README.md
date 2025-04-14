@@ -21,7 +21,7 @@
 ## my skill list - language
 
 
-<table>
+<table algin="center">
   <tr gap="100px">
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baezzzi&layout=compact" />
@@ -48,7 +48,6 @@
   </tr>
 </table>
 
-## my skill list - tools
 
 
 
