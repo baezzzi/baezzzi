@@ -22,7 +22,7 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" style="right:100px">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baezzzi&layout=compact" />
     </td>
     <td align="center">
