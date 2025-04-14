@@ -21,7 +21,7 @@
 
 
 <div  align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 40px; flex-wrap: wrap;">
-  <div>
+  <div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baezzzi&layout=compact" />
   </div>
   
