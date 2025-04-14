@@ -19,7 +19,7 @@
 <br />
 
 <div align="center">
-  <h2>👾 my skill list 👾</h2>
+  <h2>👾 tect stack 👾</h2>
 <table>
   <tr gap="100px">
     <td align="center">
