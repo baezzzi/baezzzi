@@ -20,8 +20,8 @@
 
 ## my skill list 
 
-
-<table algin="center">
+<div align="center">
+<table>
   <tr gap="100px">
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baezzzi&layout=compact" />
@@ -47,9 +47,7 @@
     </td>
   </tr>
 </table>
-
-
-
+</div>
 
 <!--
 **baezzzi/baezzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
