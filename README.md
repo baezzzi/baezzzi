@@ -17,7 +17,7 @@
 ***
 
 <div align="center">
-  <p style="font-size:20px">my skill list</p>
+  <h2>my skill list</h2>
 <table>
   <tr gap="100px">
     <td align="center">
