@@ -16,10 +16,8 @@
   
 ***
 
-
-## my skill list 
-
 <div align="center">
+  <p style="font-size:20px">my skill list</p>
 <table>
   <tr gap="100px">
     <td align="center">
