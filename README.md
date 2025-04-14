@@ -16,6 +16,8 @@
   
 ***
 
+<br />
+
 <div align="center">
   <h2>my skill list</h2>
 <table>
